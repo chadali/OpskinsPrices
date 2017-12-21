@@ -10,6 +10,6 @@ This application is pulling the price of every item, and allows users to easily 
 
 Click the image below to watch the video showcase!
 
-[![youtube video](http://img.youtube.com/vi/lxfsWbUKvew/0.jpg)](http://www.youtube.com/watch?v=lxfsWbUKvew)
+[![youtube video](https://i.imgur.com/TvmvMRf.png)](http://www.youtube.com/watch?v=lxfsWbUKvew)
 
 ![s1](https://lh3.googleusercontent.com/hbJKxVxZ0TsZgDSPaoTzZ2EJ4Q0LQ3dTBXDCgKj5ltd023pbRLePjcKmnnnAkaBjqNrr=h900-rw) ![s2](https://lh3.googleusercontent.com/3ETGn6bzSEar30Z8TurnibZDeUT0-rdzumiCfqjGontLPs0HEeayREmm62kx8IV8Zh4=h900-rw)
