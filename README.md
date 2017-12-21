@@ -1,6 +1,6 @@
 # OpskinsPrices
 
-<a href="https://play.google.com/store/apps/details?id=com.chadali.opskinsprices" rel="PlayStore">![play store](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)]</a>
+<a href="https://play.google.com/store/apps/details?id=com.chadali.opskinsprices" rel="PlayStore">![play store](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png =323x125)]</a>
 
 Virtual items in video games is a billion dollar industry.
 
@@ -10,6 +10,6 @@ Their search is a terribly slow, captcha ridden mess however. Thankfully, they m
 
 This application is pulling the price of every item, and allows users to easily search for desired items by name and price.
 
-Watch the youtube video showcase
+Click the image below to watch the youtube video showcase!
 
 [![youtube video](http://img.youtube.com/vi/lxfsWbUKvew/0.jpg)](http://www.youtube.com/watch?v=lxfsWbUKvew)
