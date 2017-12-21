@@ -2,11 +2,19 @@
 
 <a href="https://play.google.com/store/apps/details?id=com.chadali.opskinsprices"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="323" height="125"/></a>
 
+## Abstract
+
 Virtual items in video games is a billion dollar industry. OPSkins is the most popular virtual item exchange for many online games. They allow users to securely buy and sell items for real money.
 
 Their search is a terribly slow, captcha ridden mess however. Thankfully, they maintain an API to request the price of every item instantly.
 
 This application is pulling the price of every item, and allows users to easily search for desired items by name and price.
+
+## Key Files
+
+[MainActivity](https://github.com/chadali/OpskinsPrices/blob/master/app/src/main/java/com/chadali/opskinsprices/MainActivity.java)
+
+## Showcase
 
 Click the image below to watch the video showcase!
 
